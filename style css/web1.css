@@ -1,0 +1,104 @@
+
+.navbar{
+    background:linear-gradient(to left , rgb(13, 107, 76) , aqua );
+    height: 60px;
+    
+}
+.navbar h1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-top: 3px;
+}
+.navbar h1 span{
+    color: red;
+    font-size: 25px;
+    
+}
+.navbar ul li{
+    padding: 10px;
+}
+
+.navbar a{
+    color:black !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.navbar a:hover{
+    background-color: rgb(31, 28, 28);
+    color: white !important;
+    border-radius: 20px;
+    
+}
+.about{
+    background-color: rgb(255, 255, 255);
+    color: black;
+
+}
+ span{
+    color: red;
+}
+.hr{
+    width: 40%;
+    background-color: red;
+    height: 4px;
+    margin: 15px auto;
+}
+.about-p{
+    margin-top: 70px;
+}
+.gallary{
+    background:linear-gradient( #dcedf0, #39919c );
+}
+
+.pro{
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 15px ;
+    margin-bottom: 5px;
+    margin-left: 60px;
+    
+
+}
+.pro img{
+    width: 90%;
+    height: 250px;
+    margin-top: 17px;
+    margin-bottom: 5px;
+    
+}
+.pro button{
+    margin-bottom: 5px;
+    background:linear-gradient(to left , rgb(13, 107, 76) , aqua 70%);
+    border-radius: 20px;
+    outline: none;
+}
+.pro button:hover{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
+
+.par h1{
+    text-align: left;
+}
+.chi{
+    margin-bottom: 15px;
+}
+.chi label{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.chi input{
+    width: 70%;
+    background-color: white;
+    border-radius: 12px;
+    color: black;
+    outline: none;
+}
+.buy{
+    border-radius: 20px;
+    background:linear-gradient(to left , rgb(13, 107, 76) , aqua 70%);
+}
